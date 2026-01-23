@@ -1,6 +1,6 @@
 {
     "name": "Kali Linux",
-    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "image": "mcr.microsoft.com/devcontainers/base:kali",
     "features": {
         "ghcr.io/devcontainers/features/common-utils:1":{} 
         
